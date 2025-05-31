@@ -1,4 +1,4 @@
-# Resume-match
+# Resume-match(ML+NLP)
 A machine learning-based system that matches resumes to job descriptions using natural language processing and evaluates the matching accuracy. Built using Python, scikit-learn, and NLP libraries, this tool helps recruiters identify the most suitable candidates based on content relevance and semantic similarity.
 Key features:
 1.Resume Parsing: Extracts skills, experience, education, and keywords from resume text (PDF or text format).
